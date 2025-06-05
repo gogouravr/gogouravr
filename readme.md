@@ -1,4 +1,4 @@
-Hey there! 👋 My name is Gourav and I love building software that solves real-world problems.<br>I have over 3 years of experience building highly scalable software applications serving millions of requests daily. ⚡️<br>
+Hey there! 👋 My name is Gourav and I love building software that solves real-world problems.<br>I have over 3.6 years of experience building highly scalable software applications serving millions of requests daily. ⚡️<br>
 
 
 ## 🤝 Socials:
